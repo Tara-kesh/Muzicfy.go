@@ -60,7 +60,7 @@ const music_list = [
         music : 'On The Floor.mp3'
     },
     {
-        img : 'lover.jpg',
+        img : 'Lover.jpg',
         name : '𝗟𝗼𝘃𝗲𝗿',
         artist : '𝗧𝗮𝘆𝗹𝗼𝗿 𝗦𝘄𝗶𝗳𝘁',
         music : 'lover.mp3'
